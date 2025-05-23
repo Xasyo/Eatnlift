@@ -3,7 +3,7 @@ Eatnlift is a mobile application that allows users to track their training as we
 
 This project was first conceived as a final degree project for my Informatics Engineering degree, for which I received a final mark of 9.
 
-A demo video can be found here: https://drive.google.com/file/d/1ynaPsnT3PnJd7IZR5U9xUTRNXyDZbP8a/view?usp=sharing
+A demo video can be found [here](https://drive.google.com/file/d/1ynaPsnT3PnJd7IZR5U9xUTRNXyDZbP8a/view?usp=sharing)
 
 ## Users
 Eatnlift allows users to manage their profile and closely evaluate their progress.
